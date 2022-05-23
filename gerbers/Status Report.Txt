@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [turnRacingMain.PcbDoc]
+   Generated File[turnRacingMain.TXT]
+   Generated File[turnRacingMain.LDP]
+   Generated File[turnRacingMain.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 18:10:41 On 25.07.2021
